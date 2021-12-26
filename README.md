@@ -16,7 +16,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKaushik)
 
 <h4>Contact me:</h4>
-<a href="mailto:contact@sparshkaushik.com" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403313-f2ae846f-2a0c-4926-832c-b5e2a12adf67.png" alt="contact@sparshkaushik.com" height="32" width="32" /></a>
+<a href="mailto:contact@sparshkaushik.com" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403313-f2ae846f-2a0c-4926-832c-b5e2a12adf67.png" alt="contact@sparshkaushik.com" height="32" width="32" /></a>&nbsp;
 <a href="https://instagram.com/phomtographer" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403334-35385a01-e6e0-4b31-a191-2ee54e9594c6.png" alt="phomtographer" height="32" width="32" /></a>
 
 
