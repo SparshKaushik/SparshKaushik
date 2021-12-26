@@ -1,26 +1,39 @@
+## Short Intro About Me
+
 - 👋 Hi, I’m @SparshKaushik
-- 👀 I’m interested in Python and Coding
+- 👀 I’m interested in Python and Other Stuff
 - 🌱 I’m currently learning Python(Flask)
+- ⚡ Fun Fact : I will think About a real life problem or programming problem and try to solve it when I am bored in a meeting/lecture though I will be still listening and sometimes will not be actually processing what anyone is saying and I mostly remember it for processing later.
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-</p>
+## My Skill Set
+<div align="center">
+<a href="https://python.org" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/94038536/147404326-ce9e2ec3-1175-43f6-b900-d35d4e8dd2e7.png" alt="Python" height="50" /></a><a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/94038536/147404292-9878a999-747c-4a19-81f1-e4f258ad7ac2.png" alt="Flask" height="50" /></a>
+<a href="https://mysql.com" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/94038536/147404342-43a08e9f-ae7d-42dd-a961-023f3fce7d0a.png" alt="MySQL" height="50" /></a><a href="https://linux.org" target="_blank"><img style="margin: 10px" src="https://user-images.githubusercontent.com/94038536/147404349-beee76f6-904d-4b66-a773-495d6a27d507.png" alt="Linux" height="50" /></a>
+</div>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=sparshkaushik&show_icons=true&locale=en)
+## Github Stats
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=sparshkaushik&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKaushik)
+## My Most Used Languages
 
-<h4>Contact me:</h4>
-<a href="mailto:contact@sparshkaushik.com" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403313-f2ae846f-2a0c-4926-832c-b5e2a12adf67.png" alt="contact@sparshkaushik.com" height="32" width="32" /></a>&nbsp;
-<a href="https://instagram.com/phomtographer" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403334-35385a01-e6e0-4b31-a191-2ee54e9594c6.png" alt="phomtographer" height="32" width="32" /></a>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKaushik" align="center" /></div>
 
+## Contact Me
+<div align="center">
+<a href="https://github.com/SparshKaushik" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://t.me/SparshKaushik" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%2324292e.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/phomtographer" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%2324292e.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 <!---
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 SparshKaushik/SparshKaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
