@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Python(Flask)
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/phomtographer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="phomtographer" height="30" width="40" /></a>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -18,6 +14,11 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=sparshkaushik&show_icons=true&locale=en)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SparshKaushik)
+
+<h4>Contact me:</h4>
+<a href="mailto:contact@sparshkaushik.com" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403313-f2ae846f-2a0c-4926-832c-b5e2a12adf67.png" alt="contact@sparshkaushik.com" height="32" width="32" /></a>
+<a href="https://instagram.com/phomtographer" target="blank"><img src="https://user-images.githubusercontent.com/94038536/147403334-35385a01-e6e0-4b31-a191-2ee54e9594c6.png" alt="phomtographer" height="32" width="32" /></a>
+
 
 <!---
 SparshKaushik/SparshKaushik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
