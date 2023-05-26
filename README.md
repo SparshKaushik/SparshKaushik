@@ -1,8 +1,8 @@
 ## Short Intro About Me
 
 - 👋 Hi, I’m @SparshKaushik
-- 👀 I’m interested in Python and Other Stuff
-- 🌱 I’m currently learning Python(Flask)
+- 👀 I’m interested in Full Stack Web Development
+- 🌱 I’m currently learning a lot of Stuff and doing Projects
 - ⚡ Fun Fact : I will think About a real life problem or programming problem and try to solve it when I am bored in a meeting/lecture though I will be still listening and sometimes will not be actually processing what anyone is saying and I mostly remember it for processing later.
 
 
